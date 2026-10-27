@@ -1,7 +1,6 @@
 # sparrow
 
-A small Go API and web UI that boots Firecracker microVMs. It is the demo
-code for the talk "Don't Let Your AI Agents Run Wild" at GopherCon Africa.
+A small Go API and web UI that boots Firecracker microVMs. 
 
 A VM needs three things:
 
